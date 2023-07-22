@@ -1,2 +1,2 @@
 # Algoritmo-ordenação-JavaScript
- É hora de praticar a lógica de programação e entender como pensamos e desenvolvemos os algoritmos que serão utilizados na resolução de problemas de programação.
+ Nesse código vamos resolver um problema de ordenação, e o que seria isso? Vamos supor que em uma livraria que contenha 5 livros nós queremos pegar os três livros mais baratos isso seria fácil de oerdenar mentalmente ou utilizando paple e caneta mas e se fosse uma livraria com milhares de exemplares e eu quisesse comprar os 16 livros mais baratos. Como resolver isso? Utilizando algoritmos de ordenação.
